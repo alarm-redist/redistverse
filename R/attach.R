@@ -1,3 +1,2 @@
-core_pkgs <- c('redist', 'redistmetrics', 'ggredist', 'tinytiger', 'geomander')
-# geocoder? censable? easycensus?
-
+core_pkgs <- c("redist", "redistmetrics", "ggredist", "tinytiger", "geomander", "censable", "easycensus")
+# geocoder?
