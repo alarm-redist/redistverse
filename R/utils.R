@@ -3,9 +3,9 @@ inform_startup <- function(msg, ...) {
   if (is.null(msg)) {
     return(invisible(NULL))
   }
-  if (isTRUE(getOption('redistverse.quiet'))) {
+  if (isTRUE(getOption("redistverse.quiet"))) {
     return(invisible(NULL))
   }
 
-  rlang::inform(msg, ..., class = 'packageStartupMessage')
+  cli::cli_inform(msg, ..., class = "packageStartupMessage")
 }
