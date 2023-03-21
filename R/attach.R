@@ -10,7 +10,7 @@ core_unloaded <- function() {
 }
 
 redistverse_attach <- function() {
-  invisible(unloaded())
+  invisible(core_unloaded())
 }
 
 redistverse_attach_message <- function(to_load) {
