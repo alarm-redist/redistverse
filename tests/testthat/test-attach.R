@@ -11,4 +11,3 @@ test_that("message lists all core tidyverse packages", {
 test_that("logo prints", {
   expect_snapshot(redistverse_logo())
 })
-

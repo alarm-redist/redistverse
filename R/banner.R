@@ -5,7 +5,7 @@
 #' @examples
 #' redistverse_logo()
 redistverse_logo <- function() {
-  logo <-  c(
+  logo <- c(
     r"(  __   ___  __  o  __  ___       ___  __   __   ___ )",
     r"( |__) |__  |  \ | /__`  |  \  / |__  |__) /__` |__  )",
     r"( |  \ |___ |__/ | .__/  |   \/  |___ |  \ .__/ |___ )"
@@ -17,6 +17,6 @@ redistverse_logo <- function() {
   )
   logo <- sub("o", cli::col_yellow("\u2b22"), logo)
 
-  cat(cli::style_bold(logo), sep="\n")
+  cat(cli::style_bold(logo), sep = "\n")
   cat(cli::col_grey("----------------------------------------------------\n"))
 }
