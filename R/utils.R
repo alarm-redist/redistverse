@@ -7,5 +7,5 @@ inform_startup <- function(msg, ...) {
     return(invisible(NULL))
   }
 
-  cli::cli_inform(msg, ..., class = "packageStartupMessage")
+  packageStartupMessage(msg, ...)
 }

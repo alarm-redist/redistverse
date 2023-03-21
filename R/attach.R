@@ -17,7 +17,8 @@ same_library <- function(pkg) {
 }
 
 redistverse_attach <- function() {
-  to_load <- core_unloaded()
+  # to_load <- core_unloaded()
+  to_load <- core_pkgs
 
   suppressPackageStartupMessages(
     lapply(to_load, same_library)
