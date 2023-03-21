@@ -10,7 +10,14 @@ core_unloaded <- function() {
 }
 
 redistverse_attach <- function() {
-  invisible(core_unloaded())
+  to_load <- core_unloaded()
+
+  suppressPackageStartupMessages(
+    lapply(to_load, same_library)
+  )
+
+  invisible(to_load)
+
 }
 
 redistverse_attach_message <- function(to_load) {
