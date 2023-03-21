@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# redistverse <img src="man/figures/logo.png" align="right" height="138" />
+# redistverse <img src="man/figures/logo.png" align="right" height="208" />
 
 <!-- badges: start -->
 <!-- badges: end -->
