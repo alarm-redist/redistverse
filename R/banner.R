@@ -1,9 +1,21 @@
-redist_banner <- '
-                     888 d8b          888
-                     888 Y8P          888
-                     888              888
-888d888 .d88b.   .d88888 888 .d8888b  888888 888  888  .d88b.  888d888 .d8888b   .d88b.
-888P"  d8P  Y8b d88" 888 888 88K      888    888  888 d8P  Y8b 888P"   88K      d8P  Y8b
-888    88888888 888  888 888 "Y8888b. 888    Y88  88P 88888888 888     "Y8888b. 88888888
-888    Y8b.     Y88b 888 888      X88 Y88b.   Y8bd8P  Y8b.     888          X88 Y8b.
-888     "Y8888   "Y88888 888  88888P\'  "Y888   Y88P    "Y8888  888      88888P\'  "Y8888  '
+#' Print the 'redistverse' logo using ASCII characters
+#'
+#' @md
+#' @export
+#' @examples
+#' redistverse_logo()
+redistverse_logo <- function() {
+  logo <-  c(
+    r"(  __   ___  __     __  ___       ___  __   __   ___ )",
+    r"( |__) |__  |  \ | /__`  |  \  / |__  |__) /__` |__  )",
+    r"( |  \ |___ |__/ | .__/  |   \/  |___ |  \ .__/ |___ )"
+  )
+
+  logo <- paste0(
+    cli::col_br_white(substring(logo, 1, 26)),
+    cli::col_br_red(substring(logo, 27, 52))
+  )
+
+  cat(cli::style_bold(logo), sep="\n")
+  cat(cli::col_grey("----------------------------------------------------\n"))
+}
