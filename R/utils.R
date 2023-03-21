@@ -1,10 +1,10 @@
 # adopted from `tidyverse`
 inform_startup <- function(msg, ...) {
   if (is.null(msg)) {
-    return()
+    return(invisible(NULL))
   }
   if (isTRUE(getOption('redistverse.quiet'))) {
-    return()
+    return(invisible(NULL))
   }
 
   rlang::inform(msg, ..., class = 'packageStartupMessage')
