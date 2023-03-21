@@ -9,7 +9,7 @@ use_redistverse_r_universe <- function() {
   cli::cli_inform('Add the following to your profile, possibly through {.fn usethis::edit_r_profile}.')
   x <- "options(
     repos = c(
-      ropensci = 'https://ropensci.r-universe.dev',
+      ropensci = 'https://alarm-redist.r-universe.dev',
       cran = 'https://cran.r-project.org'
     )
   )"
