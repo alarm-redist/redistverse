@@ -17,7 +17,6 @@ redistverse_attach <- function() {
   )
 
   invisible(to_load)
-
 }
 
 redistverse_attach_message <- function(to_load) {
