@@ -14,7 +14,7 @@ The 'redistverse' is a set of packages for redistricting data downloading, spati
 Useful links:
 \itemize{
   \item \url{https://github.com/alarm-redist/redistverse}
-  \item \url{http://alarm-redist/redistverse/}
+  \item \url{http://alarm-redist.org/redistverse/}
   \item Report bugs at \url{https://github.com/alarm-redist/redistverse/issues}
 }
 
