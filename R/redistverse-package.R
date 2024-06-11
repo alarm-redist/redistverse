@@ -15,4 +15,5 @@ ignore_unused_imports <- function() {
   redistmetrics::by_plan
   sf::st_crs
   tinytiger::tt_voting_districts
+  birdie::birdie
 }

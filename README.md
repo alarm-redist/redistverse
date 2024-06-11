@@ -42,3 +42,4 @@ Related packages are installed:
 - [alarmdata](https://alarm-redist.org/alarmdata/)
 - [easycensus](https://corymccartan.com/easycensus/)
 - [censable](https://christophertkenny.com/censable/)
+- [birdie](https://corymccartan.com/birdie/)

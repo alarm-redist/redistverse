@@ -14,17 +14,17 @@ The 'redistverse' is a set of packages for redistricting data downloading, spati
 Useful links:
 \itemize{
   \item \url{https://github.com/alarm-redist/redistverse}
-  \item \url{http://alarm-redist.org/redistverse/}
+  \item \url{https://alarm-redist.org/redistverse/}
   \item Report bugs at \url{https://github.com/alarm-redist/redistverse/issues}
 }
 
 }
 \author{
-\strong{Maintainer}: Christopher T. Kenny \email{christopherkenny@fas.harvard.edu}
+\strong{Maintainer}: Christopher T. Kenny \email{christopherkenny@fas.harvard.edu} (\href{https://orcid.org/0000-0002-9386-6860}{ORCID})
 
 Authors:
 \itemize{
-  \item Cory McCartan \email{cmccartan@g.harvard.edu}
+  \item Cory McCartan \email{mccartan@psu.edu} (\href{https://orcid.org/0000-0002-6251-669X}{ORCID})
 }
 
 Other contributors:

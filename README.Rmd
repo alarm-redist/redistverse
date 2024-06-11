@@ -16,6 +16,9 @@ knitr::opts_chunk$set(
 # redistverse <img src="man/figures/logo.png" align="right" height="208" />
 
 <!-- badges: start -->
+[![redistverse status
+badge](https://alarm-redist.r-universe.dev/badges/redistverse)](https://alarm-redist.r-universe.dev/redistverse)
+[![R-CMD-check](https://github.com/alarm-redist/redistverse/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/alarm-redist/redistverse/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The `redistverse` is a set of packages for redistricting data downloading, spatial 
@@ -53,3 +56,4 @@ Related packages are installed:
 - [alarmdata](https://alarm-redist.org/alarmdata/)
 - [easycensus](https://corymccartan.com/easycensus/)
 - [censable](https://christophertkenny.com/censable/)
+- [birdie](https://corymccartan.com/birdie/)
