@@ -11,9 +11,11 @@ Authors@R: c(
        role = "aut", comment = c(ORCID = "0000-0002-6251-669X")),
     person("tidyverse contributors", role = "ctb", comment = "attach code adapted from tidyverse."))
 Description: The 'redistverse' is a set of packages for redistricting
-    data downloading, spatial preprocessing, simulation, analysis, and 
+    data downloading, spatial data processing, simulation, analysis, and 
     visualization. This package makes it easy to install and load multiple 
-    'redistverse' packages at once.
+    'redistverse' packages at once. The 'redistverse' is developed and maintained 
+    by the Algorithm-Assisted Redistricting Methodology (ALARM) Project.
+    For more details see <https://alarm-redist.org>.
 Depends: 
     R (>= 4.0.0)
 Imports: 
