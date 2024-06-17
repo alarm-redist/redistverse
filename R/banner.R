@@ -1,7 +1,8 @@
 #' Print the 'redistverse' logo using ASCII characters
 #'
-#' @md
+#' @return `NULL`, invisibly
 #' @export
+#'
 #' @examples
 #' redistverse_logo()
 redistverse_logo <- function() {
@@ -19,4 +20,5 @@ redistverse_logo <- function() {
 
   cat(cli::style_bold(logo), sep = "\n")
   cat(cli::col_grey("----------------------------------------------------\n"))
+  invisible(NULL)
 }

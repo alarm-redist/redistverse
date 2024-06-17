@@ -10,7 +10,7 @@ Authors@R: c(
     person(given = "Cory", family = "McCartan", email = "mccartan@psu.edu", 
        role = "aut", comment = c(ORCID = "0000-0002-6251-669X")),
     person("tidyverse contributors", role = "ctb", comment = "attach code adapted from tidyverse."))
-Description: The 'redistverse' is a set of packages for redistricting
+Description: Easy installation, loading, and control of packages for redistricting
     data downloading, spatial data processing, simulation, analysis, and 
     visualization. This package makes it easy to install and load multiple 
     'redistverse' packages at once. The 'redistverse' is developed and maintained 

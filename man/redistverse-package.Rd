@@ -8,7 +8,7 @@
 \description{
 \if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
 
-The 'redistverse' is a set of packages for redistricting data downloading, spatial preprocessing, simulation, analysis, and visualization. This package makes it easy to install and load multiple 'redistverse' packages at once.
+The 'redistverse' is a set of packages for redistricting data downloading, spatial data processing, simulation, analysis, and visualization. This package makes it easy to install and load multiple 'redistverse' packages at once. The 'redistverse' is developed and maintained by the Algorithm-Assisted Redistricting Methodology (ALARM) Project. For more details see \url{https://alarm-redist.org}.
 }
 \seealso{
 Useful links:

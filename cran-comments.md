@@ -1,3 +1,8 @@
+## Resubmission notes
+
+* A return value has been added to `redistverse_logo()` `.Rd` file.
+* We have rewritten the first sentence of the description to avoid the title of the package.
+
 ## Test environments
 * local R installation (Windows 11), R 4.4.0
 * local R installation (macOS), R 4.4.0

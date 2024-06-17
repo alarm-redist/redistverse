@@ -6,6 +6,9 @@
 \usage{
 redistverse_logo()
 }
+\value{
+\code{NULL}, invisibly
+}
 \description{
 Print the 'redistverse' logo using ASCII characters
 }
