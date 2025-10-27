@@ -1,33 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://alarm-redist.org/redistverse/404.html</loc>
-  </url>
-  <url>
-    <loc>http://alarm-redist.org/redistverse/LICENSE-text.html</loc>
-  </url>
-  <url>
-    <loc>http://alarm-redist.org/redistverse/LICENSE.html</loc>
-  </url>
-  <url>
-    <loc>http://alarm-redist.org/redistverse/authors.html</loc>
-  </url>
-  <url>
-    <loc>http://alarm-redist.org/redistverse/index.html</loc>
-  </url>
-  <url>
-    <loc>http://alarm-redist.org/redistverse/news/index.html</loc>
-  </url>
-  <url>
-    <loc>http://alarm-redist.org/redistverse/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>http://alarm-redist.org/redistverse/reference/redistverse-package.html</loc>
-  </url>
-  <url>
-    <loc>http://alarm-redist.org/redistverse/reference/redistverse_logo.html</loc>
-  </url>
-  <url>
-    <loc>http://alarm-redist.org/redistverse/reference/use_redistverse_r_universe.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>http://alarm-redist.org/redistverse/404.html</loc></url>
+<url><loc>http://alarm-redist.org/redistverse/LICENSE-text.html</loc></url>
+<url><loc>http://alarm-redist.org/redistverse/LICENSE.html</loc></url>
+<url><loc>http://alarm-redist.org/redistverse/authors.html</loc></url>
+<url><loc>http://alarm-redist.org/redistverse/index.html</loc></url>
+<url><loc>http://alarm-redist.org/redistverse/news/index.html</loc></url>
+<url><loc>http://alarm-redist.org/redistverse/reference/index.html</loc></url>
+<url><loc>http://alarm-redist.org/redistverse/reference/redistverse-package.html</loc></url>
+<url><loc>http://alarm-redist.org/redistverse/reference/redistverse_logo.html</loc></url>
+<url><loc>http://alarm-redist.org/redistverse/reference/use_redistverse_r_universe.html</loc></url>
 </urlset>
+
