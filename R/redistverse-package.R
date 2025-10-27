@@ -16,4 +16,5 @@ ignore_unused_imports <- function() {
   sf::st_crs
   tinytiger::tt_voting_districts
   birdie::birdie
+  baf::baf
 }

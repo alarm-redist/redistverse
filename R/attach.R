@@ -1,8 +1,8 @@
 # adopted from `tidyverse`
 
-core_pkgs <- c("redist", "redistmetrics", "ggredist", "geomander", "sf")
-xtra_pkgs <- c("PL94171", "tinytiger", "alarmdata", "censable", "easycensus", "birdie")
-# geocoder? birdie?
+core_pkgs <- c("redist", "redistmetrics", "ggredist", "geomander", "sf", "tinytiger")
+xtra_pkgs <- c("PL94171", "alarmdata", "censable", "easycensus", "birdie", "baf")
+# geocoder?
 
 core_unloaded <- function() {
   search <- paste0("package:", core_pkgs)
