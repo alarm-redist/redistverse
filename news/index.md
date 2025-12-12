@@ -1,0 +1,21 @@
+# Changelog
+
+## redistverse 0.1.2
+
+- This version bump is for a CRAN release only. No substantive changes
+  have been made to the package.
+
+## redistverse 0.1.1
+
+CRAN release: 2025-10-27
+
+- Upgrades `tinytiger` to a core package.
+- Explicitly lists `baf` as an imported package, as it was already an
+  implicit dependency via `geomander`.
+
+## redistverse 0.1.0
+
+CRAN release: 2024-06-18
+
+- Added a `NEWS.md` file to track changes to the package.
+- Initial CRAN release.
