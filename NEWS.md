@@ -1,3 +1,7 @@
+# redistverse 0.1.2
+
+* This version bump is for a CRAN release only. No substantive changes have been made to the package.
+
 # redistverse 0.1.1
 
 * Upgrades `tinytiger` to a core package.
