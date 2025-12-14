@@ -1,6 +1,6 @@
 ## Additional notes
 
-* This package was archived on CRAN yesterday.
+* This package was archived on CRAN on 2025-12-11.
 
 ## Test environments
 
